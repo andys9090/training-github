@@ -1,0 +1,14 @@
+.container {
+  text-align: center;
+}
+
+.container button {
+  padding: 1rem 2rem;
+}
+
+input {
+  padding: 1rem;
+  font-size: 14px;
+  border: none;
+  text-align: center;
+}
